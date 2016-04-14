@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:outlineProvider="background"
+
+    android:padding="2dp"
+    tools:context="com.example.android.yearinapp2016.inter_janActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4a148c"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="February, India and World"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="italic" />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#ab47bc"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="India, Seychelles joint military exercise LAMITYE 2016"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e1bee7"
+                android:paddingLeft="8dp"
+                android:text="On 14th Feb 2016 the 7th edition of joint military exercise LAMITYE 2016 was begun in Victoria, Seychelles between Indian Army and Seychelles People’s Defence Forces (SPDF). It is 14 day joint exercise conclude on February 28, 2016 at Seychelles Defence Academy (SDA), Victoria. The India and Seychelles joint drill ‘Exercise Lamitye’ are started from 2001 with the aim of enhancing military cooperation and interoperability between the two countries."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#ab47bc"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Abu Dhabi National oil company agreed to store crude oil in India storage"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e1bee7"
+                android:text="The UAE’s national oil company Abu Dhabi National Oil (ADNOC) Company has agreed to store crude oil in India’s maiden Strategic Petroleum Reserves (SPRs) storage used for emergency purpose. UAE has agreed to give two-third of the oil for free by this agreement, 0.5 million tons of stored crude oil will belong to India and it can use it at the time of emergencies.India imports up to 8 per cent of crude oil from UAE."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#ab47bc"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="International Fleet Review 2016 at Visakhapatnam
+"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e1bee7"
+                android:paddingLeft="8dp"
+                android:text="The 2nd International Fleet Review (IFR) at Visakhapatnam, Andhra Pradesh at the coast of Bay of Bengal held by Indian Navy held from February 4 to February 8, 2016. This was the 11th Fleet Review after Independence and the second with participation of foreign navies. Almost 22 navies from across the world participated in the event, which included Naval ships. The theme for the International Fleet Review 2016 was ‘United through Oceans’. with 65 Indian Naval warships and three IN (Indian Navy) Submarines, the Review also included 24 foreign ships, two ships from the Indian Coast Guard and three from Mercantile Marine. Several enthralling waterfront activities by sail boats, water skiing, display by Marine Commandos and helicopter demonstrations were also held in review. the latest acquisitions of the Indian Navy such as MiG 29K, Long Range MR aircraft P8I and AEW helicopter KM-31 were also presented."
+                android:textSize="20dp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#ab47bc"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Union government launched 24×7 tourist help line no"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e1bee7"
+                android:paddingLeft="8dp"
+                android:text="Union ministry of tourism on 8 February 2016 launched the 24×7 Toll Free Tourist Infoline in 12 International Languages including Hindi and English in New Delhi. It mainly include ten International languages Arabic, French, German, Italian, Japanese, Korean, Chinese, Portuguese, Russian and Spanish.The 24×7 Toll Free Multi-Lingual Tourist Info project has been implemented by the Union Ministry through TATA Business Support Services (BSS) Limited. The callers will be advised during times of distress while travelling in India and also alert the concerned authorities. Calls made by both international and national will be free of cost."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#ab47bc"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="India, Afghanistan ink pack for visa-free travel by diplomats"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e1bee7"
+                android:paddingLeft="8dp"
+                android:text="India and Afghanistan on 1 February 2016 inked a pact for visa-free travel by their diplomats following Afghan Chief Executive Abdullah Abdullah’s meeting with Prime Minister Narendra Modi during which they discussed key bilateral and regional issues including security cooperation."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#ab47bc"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="EDF signs deal to build six nuclear plants in India"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e1bee7"
+                android:paddingLeft="8dp"
+                android:textSize="20sp"
+                android:text="For construct ion of six EPR nuclear reactors at Jaitapur, India French utility Firm (EDF) has signed a Memorandum of Understanding (MoUs) with nuclear power corporation of India Ltd (NPCIL) In 2010 it got an Initial Environmental clearance and a pre-engineering studies were signed by Areva and NPCIL to secure certification for EDF reactor in India and Finalize Economic and Financial conditions and technical specifications of project." />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+

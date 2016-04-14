@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:outlineProvider="background"
+
+    android:padding="2dp"
+    tools:context="com.example.android.yearinapp2016.inter_janActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#2979ff"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="January, International Affairs"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="italic" />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#90caf9"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Ruling conservative People’s Party wins Spain’s general election"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e3f2fd"
+                android:paddingLeft="8dp"
+                android:text="Ruling conservative People’s Party (PP) of Spain led Prime Minister Mariano Rajoy by has won the 2015 general election of the country. In the general election, PP won the 123 seats by securing in the lower house of the 350-member Parliament and securing 28.7 percent vote share. Now the People’s Party has to form a coalition government with support of other political parties to govern for another four-year term."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#90caf9"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Philippines – First Asian country to approve sale of dengue vaccine"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e3f2fd"
+                android:paddingLeft="8dp"
+                android:text="Philippines became the first Asian country to approve the sale of the world’s first ever dengue vaccine Dengvaxia in the country. The Dengvaxia vaccine has been manufactured by French pharmaceutical manufacturer Sanofi Pasteur. It has been designed to protect people in the 9-45 age groups from all four subtypes of the virus. Earlier it secured its first regulatory approval in Mexico a fortnight ago and is currently being reviewed by around 20 countries in Asia and Latin America. Clinical tests of the vaccine carried out on 40,000 people from 15 countries by the company has shown that vaccine can immunise two-thirds of people aged 9-45."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#90caf9"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="China passes first law against domestic violence"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e3f2fd"
+                android:paddingLeft="8dp"
+                android:text="China’s parliament adopted the countries first law against domestic violence bringing traditionally silent abuse victim, including couples who are in live- in relation ship , under legal protection. The new law passed by the chineese national legislature, prohibits any form of domestic violence, including Psycological abuse. The legislation was approved at the end of a week-long bi monthly session of the National people’s congress (NPC) standing committee."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#90caf9"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Cabinet approved India joining the International Energy Agency Ocean Energy Systems"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e3f2fd"
+                android:paddingLeft="8dp"
+                android:text="On 13 January 2016 the Union Cabinet, chaired by the Prime Minister Shri Narendra Modi gave its approval for India becoming a member country of the International Energy Agency – Ocean Energy Systems (IEA-OES) by signing the Implementing Agreement (IA). The nodal agency for the membership would be Earth System Science Organisation – National Institute of Ocean Technology (ESSO-NIOT) under the Ministry of Earth Sciences. By becoming a member of the IEA-OES, India will have access to advanced RnD teams and technologies across the world. India will partner in developing test protocols along with other countries. This will help in testing Indian prototypes as per international requirements and norms."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#90caf9"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="WHO Declares End to EbolaOutbreak in West Africa"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e3f2fd"
+                android:paddingLeft="8dp"
+                android:text="The World Health Organization on 14 January 2016 declared an end to the Ebola outbreak in Liberia- marking the first time since the outbreak began in 2014 that the three hardest hit countries (including Sierra Leone and Guinea) have been considered Ebola-free. To be declared Ebola-free, the countries had to have no cases for 42 days (or two 21-day incubation cycles of the virus)."
+                android:textSize="20dp" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>
+

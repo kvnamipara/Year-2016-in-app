@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.android.year_2016.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+
+        <Button
+    android:id="@+id/jan"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#3f51b5"
+    android:onClick="january"
+    android:padding="10dp"
+    android:text="January"
+            android:layout_marginBottom="8dp"
+    android:textColor="@android:color/white"
+    android:textSize="35sp" />
+
+        <Button
+            android:id="@+id/feb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#3f51b5"
+            android:onClick="february"
+            android:padding="10dp"
+            android:text="february"
+            android:textColor="@android:color/white"
+            android:textSize="35sp" />
+
+    </LinearLayout>
+</ScrollView>
+
+</LinearLayout>

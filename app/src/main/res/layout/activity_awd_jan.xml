@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:outlineProvider="background"
+    tools:context="com.example.android.yearinapp2016.inter_janActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#b71c1c"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:paddingLeft="5dp"
+        android:textStyle="italic"
+        android:text="Awards and Honours"
+        android:textColor="@android:color/white"
+        android:textSize="25sp" />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="2dp"
+            >
+
+            <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:background="#f44336"
+            android:paddingLeft="4dp"
+            android:paddingTop="2dp"
+            android:text="Israeli journalist, Palestinian pastor won Swedish rights prize"                android:textAllCaps="true"
+            android:textColor="@android:color/white"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+            <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/awd1"
+            android:scaleType="fitXY"
+            />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#ffcdd2"
+                android:paddingLeft="8dp"
+                android:text="Israeli journalist Gideon Levy and Palestinian pastor Mitri Raheb on 7 January 2016 won the 2015 Olof Palme human rights prize for their “fight against occupation and violence”.Levy, a journalist at the left leaning Israeli daily Haaretz, and Raheb, a preacher and pastor in the Lutheran church in Bethlehem, were honoured for their “courageous and indefatigable fight against occupation and violence, and for a future Middle East characterised by peaceful coexistence and equality for all”. Levy has published articles opposing the Israeli army’s operations in Gaza in December 2008-January 2009 and in July-August 2014. The Olof Palme Prize is an annual prize worth $75,000 (69,000 euros) awarded by the Swedish labour movement. It commemorates the memory of the Nordic country’s Social Democratic prime minister Olof Palme, an outspoken international human rights advocate who was assassinated in the Swedish capital in 1986.Since 1987 the award has honoured human rights defenders around the world including Burma’s Aung San Suu Kyi and former UN Secretary General Kofi Annan."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#f44336"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="ISRO chairman received Reva Lifetime Achievement Award"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/awd2"
+                android:scaleType="fitXY"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#ffcdd2"
+                android:paddingLeft="8dp"
+                android:text="ISRO chairman A.S. Kiran Kumar received Reva Lifetime Achievement Award. The award, carrying a purse of Rs. 1 lakh and a citation, presented to him on Founder’s Day that will be held on the university’s premises (Rukmini Knowledge Park, Yelahanka, Bangalore)."                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#f44336"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="EPFO bags National Award on e-Governance"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#ffcdd2"
+                android:paddingLeft="8dp"
+                android:text="The Employees’ Provident Fund Organisation has won the National Award on e-Governance 2015-16 for launching the Universal Account Number (UAN). The UAN facility enables workers to transfer their provident fund deposits while switching jobs anywhere in India easily. The EPFO won the gold award in the ‘innovative use of technology in e-governance’ category and the retirement body will get a cash prize of Rs 2 lakh. The award will be presented by the Ministry of Personnel, Public Grievances and Pensions to the EPFO in the 19th National Conference on e-governance to be held in Nagpur on January 22."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#f44336"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Prime Minister conferred the Times Now Amazing Indians Awards 2016"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/awd3"
+                android:scaleType="fitXY"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#ffcdd2"
+                android:text="Prime Minister Narendra Modi on 14 January 2016 conferred the Times Now Amazing Indians Awards 2016 to all the awardees. The awards were given in recognition of great achievements in the face of adversity."
+                android:paddingLeft="8dp"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#f44336"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Oscar nominations 2016:‘Revenant’ leads with12"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/awd4"
+                android:scaleType="fitXY"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#ffcdd2"
+                android:text=" The 88th annual Academy Award nominations were announced on 14 January 2016 in Los Angeles. The Revenant led all films with 12 nominations, followed closely by Mad Max: Fury Road with 10. The Martian landed in third with seven nominations. The Academy chose to nominate eight films for Best Picture this year, as it did last year, and they ranged from small, quiet stories like Brooklyn to the action movie bombast of Mad Max. It’s a much better lineup than 2015’s."
+                android:paddingLeft="8dp"
+                android:textSize="20dp" />
+
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>

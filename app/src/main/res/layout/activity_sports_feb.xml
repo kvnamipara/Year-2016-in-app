@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:outlineProvider="background"
+
+    android:padding="2dp"
+    tools:context="com.example.android.yearinapp2016.inter_janActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4e342e"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="February, Sports"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#795548"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Domminic Thiem won ATP Argentina open title"                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#bcaaa4"
+                android:text="On 14 Feb 2016 world No19 Dominic Thiem won the Association of Tennis Professionals (ATP) Buenos Aires tournament by defeating Spaniard Nicolas Almagro 7-6 (2), 3-6, 7-6 (4). ATP is an world Tour 250 series event. In 1970 to 1989, it is a part of the Grand Prix tennis circuit and a Grand Prix Super Series event (1970–71)."                android:paddingLeft="8dp"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#795548"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Sania Mirza, Martina Hingis won 2016 St. Petersburg Ladies Trophy"                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#bcaaa4"
+                android:paddingLeft="8dp"
+                android:text="Sania Mirza and Martina Hingis on 14 February 2016 won the 2016 St. Petersburg Ladies Trophy in St. Petersburg, Russia.By defeating the Russian-Czech team of Vera Dushevina and Barbora Krejcikova by 6-3 6-1 in doubles final. This is 13th title and 4th in 2016. earlier 2016, the pair won Australian Open, Apia International Sydney title and Brisbane Tennis trophy."                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#795548"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="West Indies won ICC U19 Cricket World Cup"      android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#bcaaa4"
+                android:text="The West Indies on 14 February 2016 won Under-19 Cricket World Cup title by defeating three time champions India by five wickets. played at Mirpur, It was the first major title for the West Indies from 2012. West Indies’ Keacy Carty was Man of the Match and Mehidy Hasan Miraz from Bangladesh was declared as the Player of the Tournament. The 2016 ICC Under-19 Cricket World Cup was an international cricket tournament held in Bangladesh from 22 January to 14 February 2016."                android:paddingLeft="8dp"
+                android:textSize="20dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#795548"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Shane Watson became the most expensive player in the 2016 IPL"                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#bcaaa4"
+                android:paddingLeft="8dp"
+                android:text="Shane Watson became the most expensive player in the 2016 Indian Premier League(IPL) auction when Royal Challengers Bangalore snapped him up for Rs 9.5 Crore. Pawan Negi continued to have a golden period as he became the most expensive Indian player at Rs 8.5 Crore. Yuvraj Singh, with Rs 7 Crore, Mohit Sharma with Rs 6.5 Crore and Ashish Nehra with 5.5 Crore."                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#795548"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Kerala won the 61st National School Athletics Championship"                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#bcaaa4"
+                android:text="Kerala has won the 61st National School Athletics championship which concluded in Kozhikode on 2 February 2016. This is for the 19th consecutive time Kerala becomes the champions in the event. Tamil Nadu came second. Kerala, the host of the championship got 306 points winning 39 gold, 29 silver and 17 bronze medals. Tamil Nadu, who came second, got 116 points winning 11 gold, 8 silver and 13 bronze medals. Maharashtra with 101 points gained the third position. Kerala won 10 meet records out of 20 records which were reported in the meet"                android:paddingLeft="8dp"
+                android:textSize="20dp" />
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

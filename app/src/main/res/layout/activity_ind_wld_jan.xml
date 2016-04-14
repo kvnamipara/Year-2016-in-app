@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:outlineProvider="background"
+
+    android:padding="2dp"
+    tools:context="com.example.android.yearinapp2016.inter_janActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4a148c"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:text="January, India and World"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="italic"/>
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#ab47bc"
+                android:textColor="@android:color/white"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Russia inks deal with HAL to manufacture 200 Kamov helicopters"
+                android:textAllCaps="true"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e1bee7"
+                android:text="Russia’s Rostech State Corporation has signed one billion US dollar deal with Hindustan Aeronautics Limited (HAL) to manufacture 200 Kamov 226T light helicopters. These helicopters will be manufactured under make in India initiative and shall replace the ageing fleet of Cheetah and Chetak helicopters. This is the first Russian-Indian high-tech project implemented by the Indian government within the framework of the ‘Make in India’ programme with the help of Russia. Under this manufacturing deal Rostech State Corporation will organize in India the production of Russian Ka-226T and its modifications in around 200 units. It will also carry out maintenance, operation and repair of helicopters."
+                android:paddingLeft="8dp"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#ab47bc"
+                android:textColor="@android:color/white"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Cabinet approves MoU with Singapore to manage airports"
+                android:textAllCaps="true"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e1bee7"
+                android:text="The Union Cabinet on 6 January 2016 approved the signing of a Memorandum of Understanding with Singapore for operating and maintaining the terminal building of airports at Jaipur and Ahmedabad. This is the first time the Airports Authority of India will award operation and maintenance contract to any entity for terminal building. The objective of this MoU is to establish mutual cooperation in the field of civil aviation. The MoU envisages collaboration with Singapore in areas such as traffic development, commercial development, master planning and design, training and development, cargo handling and management among others."                android:paddingLeft="8dp"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#ab47bc"
+                android:textColor="@android:color/white"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="India signed loan agreement with Japan to clean Mula Mutha river in Pune"
+                android:textAllCaps="true"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e1bee7"
+                android:text=" The Government of India on 13 January 2016 signed a loan agreement with Japan International Cooperation Agency (JICA) for pollution abatement of River Mula-Mutha in Pune under National River Conservation Plan (NRCP) in the presence of Minister of State (Independent Charge) of Environment, Forest and Climate Change in Pune .The Government of Japan has committed to provide a soft loan of 19.064 billion Yen (about Rs. 1000 crore) to Government of India for the project at an interest rate of 0.30% per annum."
+                android:paddingLeft="8dp"
+                android:textSize="20dp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#ab47bc"
+                android:textColor="@android:color/white"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="India, Japan conducted joint exercise ‘Sahyog-Kaijin’ off Chennai coast"
+                android:textAllCaps="true"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e1bee7"
+                android:text="Ships and aircraft of the Indian Coast Guard and the Japan Coast Guard came together to train for the 15th edition of ‘Sahyog-Kaijin’ joint exercise in the Bay of Bengal off the Chennai coast on 15 January 2016. This is the second time in three months a ship from the Japanese military forces is participating in a military exercise along with India. In October last year, Japan Maritime Self-Defence Force’s ship FS Fuyuzuk participated in exercise ‘Malabar’ with ships and aircraft of the Indian and the United States navies.While India was represented by ICGS Samudra Paheredar, ICGS Sarang, ICGS Vishwast, ICGS Rajtarang, ICGS Rajkamal and a Dornier Do 226 and chetak helicopters in ‘Sahyog-Kaijin XV’, Japan Coast Guard’s JCGS Echigo with its integral helicopter took part in the exercise."
+                android:paddingLeft="8dp"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#ab47bc"
+                android:textColor="@android:color/white"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="MoU between India and Britain for cooperation in public administration"
+                android:textAllCaps="true"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e1bee7"
+                android:paddingLeft="8dp"
+                android:text=" The union cabinet on 20 January 2016 gave its expost facto approval for the Memorandum of Understanding (MoU) signed between India and Britain for cooperation in public administration and governance reforms.The meeting of the union cabinet was chaired by Prime Minister Narendra Modi.The form of co-operation will be in areas like sharing good governance practices in public administration, user led service design, reducing bureaucracy in service delivery, government process re-engineering, building and developing staff capability, public grievance redress mechanism, local government reforms, reforms towards strengthening of social security, collaboration in strategies for promotion of ethics in government, collaboration between government and industry on staff management, mechanisms for public engagement, crisis and disaster management and digital transformation of government."
+                android:textSize="20dp" />
+
+
+
+        </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+

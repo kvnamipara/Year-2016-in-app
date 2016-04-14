@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:outlineProvider="background"
+
+    android:padding="2dp"
+    tools:context="com.example.android.yearinapp2016.inter_janActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#311b92"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="January, National Affairs"
+        android:textColor="@android:color/white"
+        android:textStyle="italic"
+        android:textSize="30sp" />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#5e35b1"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="India to implement stricter emission norms from    April 1, 2020"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#d1c4e9"
+                android:paddingLeft="8dp"
+                android:text="In a bid to curb vehicular pollution, the government on 6 January 2016 decided to implement stricter emission norms of Bharat Stage (BS) VI from 1 April 2020 by skipping BS-V altogether. At present, BS IV norms are followed in parts of India and by 1 April 2017, the whole of the country is scheduled to be covered under it. Government has decided to leapfrog from BSIV to BS-VI directly by 1 April 2020. Government decided to skip BS V emission norms."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#5e35b1"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Bypolls to 12 Assembly seats in eight States on February 13"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#d1c4e9"
+                android:paddingLeft="8dp"
+                android:text="The Election Commission on 12 January 2016 announced bypolls to 12 Assembly constituencies in eight States, including Uttar Pradesh, Punjab, Karnataka and Maharashtra, to be held on 13 February 2016. Muzzafarnagar, Deoband and Bikapur in U.P., Devadurga, Bidar and Hebbal in Karnataka, Khadoor Sahib in Punjab, Palghar in Maharashtra, Harlakhee in Bihar, Amarpur in Tripura, Narayankhed in Telangana and Maihar in Madhya Pradesh are the constituencies going to polls on February 13. The notification will be issued on January 20, while January 27 will be the last date of filing nominations. While candidates can withdraw from the electoral race till January 30, the polls will be held on February 13. Counting will be held on February 16."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#5e35b1"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="NHAI signs MoU with ISRO and NECTAR"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#d1c4e9"
+                android:paddingLeft="8dp"
+                android:text="On 13 January 2016 NHAI signed Memorandum of Understanding with National Remote Sensing Centre (NRSC) under Indian Space Research Organization (ISRO) and North East Centre for Technology Application and Research (NECTAR) for use of spatial technology for monitoring and managing National Highways."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#5e35b1"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Aadhar Card UIDAI Scheme has Helped Reduce Corruption : World Bank"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#d1c4e9"
+                android:paddingLeft="8dp"
+                android:text="The World Bank released its report titled ‘World Development Report 2016: Digital Dividends’ on January 14, 2016. As per the report although internet, mobile phones and other digital technologies are spreading fast especially in the developing countries, the anticipated effect of these services in the fields of employment generation, higher economic growth and better public services have remained below expectations. In case of India it especially noted and appreciated the Aadhar card unique identification scheme launched by the Government of India. The World Bank noted that the Aadhar scheme has helped in streamlining public services and also helped in reducing corruption in India."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#5e35b1"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="For first time in 66 years, no camel contingent at Republic-Day parade"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#d1c4e9"
+                android:paddingLeft="8dp"
+                android:text="For the first time in the history of the Republic Day celebrations, the iconic Border Security Force (BSF) camel contingent will not be ambling down the Rajpath in Delhi on January 26. While the contingent is in Delhi since the last few months, it has not been included in the rehearsals.The camel contingent first became a part of the national festival celebration in 1976 after it replaced a similar squad of the Army, which had been participating in the Republic Day parade since the first such event in 1950."
+                android:textSize="20dp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

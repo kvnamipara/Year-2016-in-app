@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:outlineProvider="background"
+
+    android:padding="2dp"
+    tools:context="com.example.android.yearinapp2016.inter_janActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4e342e"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="January, Sports"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#795548"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="India beat Afghanistan 2-1 to lift SAFF Cup title for 7th time"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#bcaaa4"
+                android:paddingLeft="8dp"
+                android:text="India defeated Afghanistan 2-1 in final match held in Thiruvananthapuram on 3 January 2016 to won the SAFF Cup for the seventh time.Previously India won in 1993, 1997, 1999, 2005, 2009, 2011 and now 2015. 2015 SAFF Cup was the 11th edition of the biennial SAFF Championship and was held at Trivandrum International Stadium, Thiruvananthapuram (Kerala). The 2017 SAFF Cup will be hosted by Bangladesh."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#795548"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Pranav Dhanawade Scores 1009 runs in 323 balls"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#bcaaa4"
+                android:paddingLeft="8dp"
+                android:text="Mumbai teenager Pranav Dhanawade on 5 January 2015 scripted history by becoming the first batsman ever to notch up a four-figure score by smashing an unbeaten knock of 1,009 in an inter-school tournament in Mumbai.Pranav Dhanawade, the opening batsman of Smt KC Gandhi School (Kalyan), scored an unbeaten 1009 off 323 balls, a knock which comprised 129 fours and 59 sixes against Arya Gurukul School. He batted for 395 minutes and had a strike rate of 312.38. This innings came in the HT Bhandari Cup inter-school tournament organised by the Mumbai Cricket Association (MCA)."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#795548"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Sania Mirza and Martina Hingis won WTA Brisbane trophy"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#bcaaa4"
+                android:paddingLeft="8dp"
+                android:text="Sania Mirza and Martina Hingis won their sixth consecutive title by lifting the WTA Brisbane trophy, in Brisbane on 9 January 2016. They defeated the German players Angelique Kerber and Andrea Petkovic 7-5, 6-1. Sania-Martina has won 26 consecutive matches and this is their sixth consecutive title. They are on course to beat the record of 28 consecutive wins in doubles set by Gigi Fernandez and Natasha Zvereva in 1994."
+                android:textSize="20dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#795548"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Nick Kyrgios, Daria Gavrilova lift Australia to Hopman Cup title"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#bcaaa4"
+                android:paddingLeft="8dp"
+                android:text="Nick Kyrgios and Daria Gavrilova had singles wins over Ukraine to lead Australia Green to the Hopman Cup, the country’s first title in the mixed-team event in 17 years. Gavrilova’s 6-4, 7-6 (6) victory over Elina Svitolina gave Australia a 1-0 lead before Kyrgios clinched the title with a 6-3, 6-4 win over Alexandr Dolgopolov."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#795548"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Sania Mirza and Martina Hingis created world record by winning 29 matches in a row"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#bcaaa4"
+                android:paddingLeft="8dp"
+                android:text="India’s Sania Mirza and her Swiss partner Martina Hingis broke a 22-year-old world record by winning their 29th women’s doubles match in a row en route to their entry into the women’s doubles final of the WTA Sydney International, in Sydney on 14 January 2016. They defeated the Romanian Raluca Olaru and Kazakhstan’s Yaroslava Shvedova 4-6, 6-3, 10-8 in the semi-final. The Sania-Hingis duo has now surpassed the pair of Puerto Rican Gigi Fernandez and Belarus’ Natasha Zvereva, who won 28 matches on the trot."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#795548"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Sania Mirza, Martina Hingis Won Sydney International Title"                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#bcaaa4"
+                android:paddingLeft="8dp"
+                android:text="Sania Mirza and Martina Hingis lifted their second trophy of the season as they won the WTA Sydney International defeating Caroline Garcia and Kristina Mladenovic 1-6, 7-5, 10-5 on 15 January 2016. This was their 30th win. It was the 11th title together for the Indo-Swiss pair. In 2015, they won nine titles including the year-end WTA Finals."
+                android:textSize="20dp" />
+
+  
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:outlineProvider="background"
+    tools:context="com.example.android.yearinapp2016.inter_janActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#263238"
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        android:paddingTop="10dp"
+        android:text="February, Science and Technology"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="italic" />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="2dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#455a64"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Japan Launches Astro-H Satellite"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#cfd8dc"
+                android:paddingLeft="8dp"
+                android:text="The ASTRO-H space observation satellite launched by H2A rocket to study mysterious Blaci Holes at Tanegashima space centre Japan. The ASTRO-H satellite has been developed by the Japan Aero space exploration Agency (JAXA) in Co operation with National Aeronautics and space Administration (NASA). It is present at 580 kilometers from earth and observe X-rays emonating from black holes and galaxy clusters. It is the heaw’est scientific satellite of Japan with 14 meters long and 2.7 tonnes weight. The satellite contain four X-ray telescopes and two gamma-ray detectors."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#455a64"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="NASA Finds First Super-Earth Exo planet"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#cfd8dc"
+                android:paddingLeft="8dp"
+                android:text="Astrophysicists at NASA has found a Super-Earth Exoplanet duo of 55 cancrie with an atmosphere for first time when working with European space Agency (ESA) and University College London. 55 cancrie was discovered using Nubble telescope’s wide field cameraz (WFG3) located around 40 light years away and eight times bigger then earth. With 2000 degree celsius temperature close to its star and largely contain Hydrogen (H) and Helium (He) gases."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#455a64"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="India Successfully test fired Prithvi-II"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#cfd8dc"
+                android:paddingLeft="8dp"
+                android:text="India Successfully test fired Prithvi-II missile from Chandipur of Odisha on 16 February 2016. It is a medium range missile capable of carrying 500 kg to 1000 kg of warheads and liquid propulsion twin engines. In the trail it strike at range of 350 km. It is the first missile to be developed by DRDO under India’s Integrated Guided Missile Development Program (IGMDP). It was introduced into Indian armed forces in 2003 before Prithvi-II was successfully test fired on 26 November 2015."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#455a64"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Scientists sported Elusive Space Time Ripples (Gravitational waves)"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#cfd8dc"
+                android:paddingLeft="8dp"
+                android:text="Physicists have announced the Discovery of gravitational waves, ripples found at space time that was first predicted by 12th century scientist Albert Einstein a century ago.after 50 years of trail and error ,25 years perfect setting to identify sensitive distortion in space time about thousandth diameter. The waves are detected by signals of gravitational waves travelling at speed of light from collision of two massive black holes each ten times heavier than sun at 1.5 billion light years away in deep space officially it is Known as GW150974 by this rather than gravitational force other two mile stones of physics has been detected. The first observation of a binary black hole and natures black holes are the objects. The waves are confirmed by US Laser Interferometer Gravitational waves Observatory (Ligo) scientists in washing ton. By this detection of gravitational waves astronomers able to see Universe in a different light almost to the beginning of time itself."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#455a64"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="North Korea launched the Kwangmyongsong-4 satellite"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#cfd8dc"
+                android:paddingLeft="8dp"
+                android:text="The Democratic People’s Republic of Korea (DPRK) on 7 February 2016 successfully launched a Kwangmyongsong-4 satellite. The earth observation satellite launched from the Sohae Space Center in Cholsan County, North Phyongan Province. DPRK’s top leader Kim Jong Un signed the order to launch the satellite on 6 February 2016. The satellite is going round the polar orbit at 494.6 km perigee altitude and 500 km apogee altitude at a 97.4-degree angle of inclination, with a cycle of 94 minutes and 24 seconds."
+                android:textSize="20dp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

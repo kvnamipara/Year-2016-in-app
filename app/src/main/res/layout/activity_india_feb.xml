@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:outlineProvider="background"
+
+    android:padding="2dp"
+    tools:context="com.example.android.yearinapp2016.inter_janActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#311b92"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="February , National Affairs"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="italic" />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#5e35b1"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="National Wild Life Action Plan(2017-2031) by Union Environment Minister"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#d1c4e9"
+                android:paddingLeft="8dp"
+                android:text="Union Ministry of Environment, Forest and Climate (MoEF) on 3 February 2016 Draft National Wildlife Action Plan (2017-2031) prepared by the Committee under the chairmanship of JC Kala It is third National Wildlife Action Plan (NWAP-3) of the country rather NWAP-1 in 1983, NWAP-2 2002. Under this life support systems that strongly moderated by Eco systems, preservation of living resource and conservation for genetic diversity, support by people for core buffer multiple use surrounded structure, preserve Forests by light of Forest Right Act are implemented."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#5e35b1"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Union government released Hydrocarbon Vision 2030 for North-East"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#d1c4e9"
+                android:paddingLeft="8dp"
+                android:text="The Hydrocarbon Vision 2030 for north-east was released by Union Minister of State for Petroleum and Natural Gas Dharmendra Pradhan on 9 February 2016 to enable social and economic development.The north east states that comes under this are Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim and Tripura. The Main objectives of the plan is to Extend features of hydrocarbon potential, enhance access to clean fuels, improve availability of petroleum products, facilitate economic development and to link common people to the economic activities in sector.It rests on 5p’s People, Policy, Partnership, Projects and Production. It aims at doubling Oil and Gas production by 2030, making clean fuels accessible, fast tracking projects, generating employment opportunities and promoting cooperation with neighbouring countries."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#5e35b1"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Project sun raise launched to prevention of AIDS in 8 north east states"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#d1c4e9"
+                android:paddingLeft="8dp"
+                android:text="Union Ministry of Health and Family Welfare J.P. Nadda had launched “Project Sunrise” for prevention of AIDS on 6th February in the eight North-Eastern states with a aim to bring the people living with HIV/AIDS into the national mainstream and creating awareness about the disease in these N-E states. It is a 5-year programme implemented in 20 districts of 8 north eastern states at an estimated cost of 70 crore rupees. Under the project, needles and syringes will be made available through secondary distributors such as Government health care facilities, preferred health care providers, non-traditional outlets and peer volunteers."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#5e35b1"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Government Launches Sahaj scheme for online booking of LPG Cylinders"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#d1c4e9"
+                android:paddingLeft="8dp"
+                android:text="The Union minister for Petroleum and Natural gas DharmendraPradhan as part of governments 2016-year has launched sahaj scheme for online booking of LPG Cylinders. The booking can be done through web portal available in 13 languages. The Union minister said that government is targeting to add 10 crore new LPG Connections by December 2018 to existing 16.5 crore connections This facility will enable consumers to book the cylinder and make payment online or offline as per their comfort and delivery of the cylinders at home will be done even if the consumer is absent as he paid in online."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#5e35b1"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="World’s tallest, largest tricolour flag hoisted at Ranchi"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#d1c4e9"
+                android:paddingLeft="8dp"
+                android:text="On occasion of 119th birth anniversary of freedom fighter Netaji subhas chandrabose Union defense minister Manohar Parrikor hoisted India’s tallest and largest tri colour flag at famous Pahari mandir in Ranchi this flag remain hoisted for 24 hours It as 66 feet height and 99 feet width hoisted on pole of height 293 feet, flag is 80 kg in weight. In previous years on march 2015 the worlds tallest national flag raised at Faridabad (Haryana)."
+                android:textSize="20dp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

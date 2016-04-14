@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:outlineProvider="background"
+    tools:context="com.example.android.yearinapp2016.inter_janActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#b71c1c"
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        android:paddingTop="10dp"
+        android:text="February, Awards and Honours"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+        android:textStyle="italic" />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="2dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#f44336"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Global teacher prize for Robin Chaurasiya"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/awd5"
+                android:scaleType="fitXY"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#ffcdd2"
+                android:paddingLeft="8dp"
+                android:text="An Indian teacher who runs a not-for-profit school in Mumbai for girls from the city’s red light areas was named in the top 10 shortlist for a global prize for teachers on 19 February 2016. Robin Chaurasiya, founder of Kranti, will compete with teachers from the U.K., U.S., Nairobi, Palestine, Japan, Finland, Australia and Pakistan to win the $1 million Global Teacher Prize 2016. The top 10 have been narrowed down from 8,000 nominations and applications from 148 countries from around the world. The prize will be announced at a ceremony in Dubai on March 13."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#f44336"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="58th Annual Grammy Awards of 2016"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/awd6"
+                android:scaleType="fitXY"
+                />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#ffcdd2"
+                android:textSize="20sp"
+                android:paddingLeft="8dp"
+                android:text="The 58th Annual Grammy Awards distributed on 16 February 2016. Taylor Swift first women who won second Grammy award album of year 1989. The top awards are Edsheeran song of the year for Best Pop Solo Performance “Thinking Out Loud”, Mark Ronson Best Pop Duo/ Group Performance for Bruno Mars “Uptown Funk”, Mux Best Rock Album for his “Drones”, Alabama Shakes Best Alternative Music Album for his “Sound and Colour”, Angclique Kidjo Best World Music Album “Sings”, Skrillex and Diplo Best Dance/ Electronic Album for their “Skrillex and Diplo Present Jack U”, The Record of year for Bruno Mars, Best New Artist Meghan Trainor, Kendrik Lamar Best Pop Album for his to pimpa butterfly." />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#f44336"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="President Pranab confers honorary General rank on Nepalese Army Chief"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/awd7"
+                android:scaleType="fitXY"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#ffcdd2"
+                android:paddingLeft="8dp"
+                android:text="President Pranab Mukherjee on 3 February 2016 conferred honorary ‘General of the Indian Army’ rank to Nepalese Army Chief General Rajendra Chettri who is on a six-day official visit to India. The honour was given for his military prowess and immeasurable contribution to fostering Nepal’s long and friendly association with India, at a special investiture ceremony held at Rashtrapati Bhavan. Chettri began his visit to India on February 1. It is his first visit abroad after assuming the top Army post in September last year. Since 1965, both the armies have been conferring the honorary rank of General on each other’s army chiefs in view of the close military ties shared by the two neighbours."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#f44336"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+
+                android:text="Padma Awards 2016 announced"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/awd8"
+                android:scaleType="fitXY"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#ffcdd2"
+                android:paddingLeft="8dp"
+                android:text="On the eve of Republic Day, the government announced the list of recipients of this year’s Padma awards. Some Awards are.
+Padma Vibhushan
+1. Ms. Yamini Krishnamurthi Art- Classical dance Delhi
+2. Shri Rajinikanth Art-Cinema Tamil Nadu
+3. Smt. Girija Devi Art-Classical Vocal West Bengal
+4. Dr. Viswanathan Shanta Medicine- Oncology Tamil Nadu
+5. Shri Shri Ravi Shankar Others-Spiritualism Karnataka
+6. Shri Avinash Dixit (Foreigner) Literature and Education USA
+7. Late Shri Dhiru Bhai Ambani (Posthumous) Trade and Industry Maharashtra
+Padma Bhushan
+1. Shri Anupam Kher Art-Cinema Maharashtra]
+2. Ms. Saina Nehwal Sports-Badminton Telangana
+3. Ms. Sania Mirza Sports-Tennis Telangana
+4. Ms. Indu Jain Trade and Industry Delhi
+5. Shri Robert Blackwill (Foreigner) Public Affairs USA
+Padma Shri
+1. Shri Ajay Devgn Art-Cinema Maharashtra
+2. Ms. Priyanka Chopra Art-Cinema Maharashtra
+3. Shri S.S. Rajamouli Ar t-Film Direct ion and Production Karnataka
+4. Ms. Malini Awasthi Art-Folk Music Uttar Pradesh
+5. Shri Ujjwal Nikam Public Affairs Maharashtra
+6. Dr.Mylswamy Annadurai Science and Engineering Karnataka
+7. Ms. Deepika Kumari Sports-Archery Jharkhand
+8. Late Shri Saeed Jaffrey (NRI/PIO/Posthumous) Art-Cinema UK"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#f44336"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Indian-Origin Cottalango Leon won Oscar award
+"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/awd9"
+                android:scaleType="fitXY"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#ffcdd2"
+                android:paddingLeft="8dp"
+                android:text="The 44-year-old technician of Indian origin Cottalango Leon has been chosen for this year’s Oscar for scientific and technical achievement. The Indian-American has won the award under the ‘Scientific and Technical Achievements’ category for the design, engineering and continuous development of Sony Pictures Image works. The academy award recognises the collaborative tool he and his two team members developed for Sony. Dubbed as “itview” the software makes review of movie segments by artists at various levels a lot easier during film making. Born in Tamil Nadu’s Tuticorin district, Mr Cottalango grew up in Coimbatore. He moved to the US to pursue his Masters in 1994. The Academy of Motion Picture Arts and Sciences will present 10 scientific and technical achievements during its annual Scientific and Technical Awards Presentation on February 13. The main Oscar Award ceremony will take place on February 28, 2016."
+                android:textSize="20dp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

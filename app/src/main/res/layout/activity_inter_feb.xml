@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:outlineProvider="background"
+
+    android:padding="2dp"
+    tools:context="com.example.android.yearinapp2016.inter_janActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#2979ff"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="February, International Affairs"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="italic" />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#90caf9"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Canada, US, Mexico Memorandum of Understanding on climate change"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e3f2fd"
+                android:paddingLeft="8dp"
+                android:text="To tap energy cooperation among Canada, the US and Mexico signed a Memorandum of Understanding on Climate Change and Energy Collaboration at the North American Energy Ministers Meeting in Winnipeg, Canada. All these countries work jointly and share information in key areas such as low-carbon electricity, clean energy technologies, energy efficiency, carbon capture, climate change adaptation and reducing emissions from the oil and gas sector and methane.they work together to increase policy alignment Among these countries 167 billion Canadian dollars ($120 billion) worth energy products were traded in 2015 across the continent."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#90caf9"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="NATO, EU sign agreement on cyber defense cooperation"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e3f2fd"
+                android:paddingLeft="8dp"
+                android:text="The North Atlantic Treaty Organization (NATO) and European Union (EU) have signed an agreement to improve Cooperation in Cyber Defence to counter modern forms of hybrid warfare.The agreement was signed between NATO Computer Incident Response Capability (NCIRC) and the Computer Emergency Response Team-European Union (CERTEU) at NATO headquarters in Brussels, Belgium. The agreement facilitates technical information sharing between NCIRC and CERT-EU so as to improve cyber incident prevention, detection and response and also allow the objectives of the EU Cyber Defence Policy Framework."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#90caf9"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="US president launches cyber-security ‘action plan’"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e3f2fd"
+                android:paddingLeft="8dp"
+                android:text="President Barack Obama on 9th feb launches a new cyber security “national action plan” because of aging government networks and a high-level commission to boost security awareness.Under this US government will spent 19 billion US dollars for cyber-security efforts Increase 35 per cent from current levels,to modernise the patchwork of computer systems used in government agencies.the 12-member cyber-security commission is made to change both the public and private sectors. It is done because of 20 million federal employees, contractors data has been leaked at a massive breach at the Office of Personnel Management.The US intelligence agencies has named China, Russia, Iran and North Korea as leading threat actors which cause risks for US cyber security."
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#90caf9"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="Transpacific partnership agreement signed by 12 countries"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e3f2fd"
+                android:paddingLeft="8dp"
+                android:text="On 4th Feb the twelve pacific rim countries signed US leading Trans-pacific partner ship (TPP) agreement in Auckland, New Zealand. It is one of biggest trade deals in history It is leaded by New Zealand prime minister John Key and US trade Representative Mike Froman this agreement was signed by Australia, Brunei, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore, United states of America and Vietnam It will Facilitate investment between 12 countries across pacific rim about 40% of It aims to promote economic growth, support the creation and retention of jobs to promote economic growth,support the creation and retention of jobs, enhance productivity and competitiveness, raise living standards reduce poverty enhance labour and environmental protection."
+                android:textSize="20dp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:background="#90caf9"
+                android:paddingLeft="4dp"
+                android:paddingTop="2dp"
+                android:text="$250 million flood recovery project signed with world bank"
+                android:textColor="@android:color/white"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:background="#e3f2fd"
+                android:paddingLeft="8dp"
+                android:textSize="20sp"
+                android:text="Jhelum and tawi flood recovery project has been signed between government of India and world bank with financing agreement of US$250 million. The agreement is signed between Mr.Raj Kumar joint secretary department of economic affairs from government of India and MR.OnnoRuhal. The primary benefit to communities in Jammu and Kashmir district that were affected by loss of public service infrastructure. the loan implementation period is for 5 years with implementing agency as government of Jammu and Kashmir." />
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>
+
